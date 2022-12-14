@@ -330,7 +330,6 @@ section {
 .about .content ul {
   list-style: none;
   padding: 0;
- 
 }
 
 .about .content ul li {
@@ -891,16 +890,6 @@ section {
   background: #fff;
   box-shadow: 0 0 24px 0 rgba(0, 0, 0, 0.12);
 }
-
-
-.ss{
-  width: 100%;
- padding-top: 0px;
- font-size: 15px;
-  display: inline-block; /* the default for span */
-  
-}
-
 
 .contact .php-email-form .form-group {
   padding-bottom: 8px;
